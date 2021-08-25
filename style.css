@@ -13,4 +13,34 @@ body{
     background-position: center;
     background-color: #00000080;
     background-blend-mode: darken;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+h1{
+    font-size: 100px;
+    color: #ffffff;
+}
+.descricao{
+    font-size: 50px;
+    color: #ffffff;
+    font-style: italic;
+}
+#learn-more{
+    width: 150px;
+    height: 40px;
+    background-color: #FAE12C;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+
 }
