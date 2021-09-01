@@ -38,16 +38,42 @@ h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400px;
 }
-#learn-more{
-    width: 200px;
+#Linkedin{
+    width: 150px;
     height: 40px;
-    background-color: #FAE12C;
+    background-color:#fffaf0;
     border-style: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 20px;
+    margin-top: 25px;
+    margin-right: 10px ;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
 
 
+}
+.github{
+    width: 150px;
+    height: 40px;
+    background-color: #fffaf0;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-right: 10px;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 20px;
+
+
+}
+.Instagram{
+    width: 150px;
+    height: 40px;
+    background-color: #fffaf0;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
 }
